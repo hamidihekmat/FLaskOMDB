@@ -1,0 +1,12 @@
+.row img {
+    width: 100%;
+    height: 390px;
+}
+
+.col-md-3 .well {
+    height: 390px;
+}
+
+.title:hover {
+    color: black;
+}
