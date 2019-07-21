@@ -1,4 +1,4 @@
-#!/usr/bin/env3 pytho3
+#!/usr/bin/env3 python3
 
 import requests
 
